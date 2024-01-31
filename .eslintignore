@@ -4,7 +4,3 @@ config
 jest.config.ts
 babel.config.js
 commitlint.config.js
-server
-weapp-qrcode.js
-packages/main/src/server
-packages/main/components.d.ts
